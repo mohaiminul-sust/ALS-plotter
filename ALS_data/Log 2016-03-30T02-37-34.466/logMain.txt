@@ -1,0 +1,2 @@
+total thread no, total generation count, total food eaten, total poison eaten,total male thread,total femal thread
+117,7,54,1,63,54
