@@ -13,6 +13,7 @@ class generationLogger(object):
         # self.hatiar.prettyPrint(self.data)
 
     def plotBar(self, keys, index, sheetName):
+
         data = self.hatiar.getPanda(self.inputFile)
         data = data[keys].set_index(index)
         # self.hatiar.prettyPrint(data)
@@ -21,6 +22,7 @@ class generationLogger(object):
         self.hatiar.printBar(data, index, keys, self.subdir+'\\'+sheetName)
 
     def writeGroup(self):
+
         data = self.hatiar.getPanda(self.inputFile)
         self.writer.writeSheet(data.cov(), 'covariance')
         self.writer.writeSheet(data.corr(), 'pearson-correlation')

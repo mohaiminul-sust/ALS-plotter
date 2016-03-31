@@ -7,29 +7,30 @@ class accessories(object):
 
     # get data using panda from csv
     def getPanda(self ,fileName):
+
         panda = pd.read_csv(fileName)
         return panda
 
     def getDescription(self, data):
+
         return data.describe()
 
     def prettyPrint(self, data):
+
         return pp.pprint(data, width='1')
 
     def printBar(self, data, xlabel, ylabel, name):
+
         figBar = data.plot.bar(stacked=False, figsize=(20, 10))
         figBar.set_xlabel(xlabel)
         figBar.set_ylabel(ylabel)
         figBar.get_figure().savefig(name+".png")
         print('saved '+name+'.png...')
-        # plt.cla()
-        # plt.clf()
         plt.close('all')
 
     def printBox(self, data, name, index):
+
         figBar = data.plot.box(by=index)
         figBar.get_figure().savefig(name+".png")
         print('saved '+name+'.png...')
-        # plt.cla()
-        # plt.clf()
         plt.close('all')
