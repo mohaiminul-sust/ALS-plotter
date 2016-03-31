@@ -32,7 +32,7 @@ for subdir, dirs, files in os.walk(path):
 
         if(file == 'ThreadInfo.csv'):
 
-            writer = ew.excelWriter(subdir+'\\threadLogger.xlsx')
+            writer = ew.excelWriter(subdir+'\\plots\\threadLogger.xlsx')
             threadLog = il.infoLogger(subdir+'\\'+file, subdir+'\\plots', writer)
 
             threadLog.writeInfo()

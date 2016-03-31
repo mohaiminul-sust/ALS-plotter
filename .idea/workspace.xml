@@ -3,12 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/genLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/threadLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/food-poison-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/genLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/time-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/threadLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/genLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/threadLogger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accessories.py" afterPath="$PROJECT_DIR$/accessories.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/excelWriter.py" afterPath="$PROJECT_DIR$/excelWriter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generationLogger.py" afterPath="$PROJECT_DIR$/generationLogger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoLogger.py" afterPath="$PROJECT_DIR$/infoLogger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plotGen.py" afterPath="$PROJECT_DIR$/plotGen.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subplotter.py" afterPath="$PROJECT_DIR$/subplotter.py" />
     </list>
     <ignored path="subplotter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +37,8 @@
       <file leaf-file-name="subplotter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subplotter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4108911">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.6806358">
+              <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -114,20 +119,18 @@
         <option value="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/logMain.txt" />
         <option value="$PROJECT_DIR$/mainLogger.py" />
         <option value="$PROJECT_DIR$/plotter.py" />
-        <option value="$PROJECT_DIR$/subplotter.py" />
         <option value="$PROJECT_DIR$/generationLogger.py" />
         <option value="$PROJECT_DIR$/infoLogger.py" />
         <option value="$PROJECT_DIR$/plotGen.py" />
         <option value="$PROJECT_DIR$/accessories.py" />
         <option value="$PROJECT_DIR$/excelWriter.py" />
+        <option value="$PROJECT_DIR$/subplotter.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -178,20 +181,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="subplotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subplotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subplotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ALS_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,11 +383,17 @@
       <option name="project" value="LOCAL" />
       <updated>1459453633072</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cleaned up">
+      <created>1459456168856</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459456168856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,7 +402,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1364" y="0" width="1369" height="771" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1366" y="0" width="1366" height="771" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -430,7 +425,8 @@
     <MESSAGE value="xml" />
     <MESSAGE value="updated log" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="cleaned up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -608,26 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generationLogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infoLogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plotGen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -652,10 +628,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/infoLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generationLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/subplotter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4108911">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.6806358">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
