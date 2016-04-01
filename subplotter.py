@@ -19,17 +19,20 @@ for subdir, dirs, files in os.walk(path):
         # print(file)
         if file == 'ALS_data.csv':
             writer = ew.excelWriter(subdir + '\\plots\\als_logger.xlsx')
-            alspl = ap.alsPlotter(fileName=subdir + '\\' + file, subdir=subdir+'\\plots', writer=writer)
+            alspl = ap.alsPlotter(fileName=subdir + '\\' + file, subdir=subdir + '\\plots', writer=writer)
 
             # write als data to excel
             alspl.writeAlsData()
 
             # plot bar graphs
-            alspl.plotBar(['number_of_run', 'total_thread', 'total_male', 'total_female'], ['number_of_run'], 'runtime vs total_male_female')
-            alspl.plotBar(['number_of_run', 'copy_dna_number', 'total_thread'], ['number_of_run'], 'runtime vs total_copy_dna_num')
+            alspl.plotBar(['number_of_run', 'total_thread', 'total_male', 'total_female'], ['number_of_run'],
+                          'runtime vs total_male_female')
+            alspl.plotBar(['number_of_run', 'copy_dna_number', 'total_thread'], ['number_of_run'],
+                          'runtime vs total_copy_dna_num')
             alspl.plotBar(['number_of_run', 'copy_dna_number'], ['number_of_run'], 'runtime vs copy_dna_num')
             alspl.plotBar(['number_of_run', 'time'], ['number_of_run'], 'runtime vs time')
-            alspl.plotBar(['number_of_run', 'latest_generation', 'time'], ['number_of_run'], 'runtime vs latest_gen_time')
+            alspl.plotBar(['number_of_run', 'latest_generation', 'time'], ['number_of_run'],
+                          'runtime vs latest_gen_time')
             alspl.plotBar(['number_of_run', 'latest_generation'], ['number_of_run'], 'runtime vs latest_gen')
             alspl.plotBar(['number_of_run', 'total_thread'], ['number_of_run'], 'runtime vs total_thread')
 
