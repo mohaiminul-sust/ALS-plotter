@@ -1,5 +1,4 @@
 import accessories as ac
-import os
 
 class infoLogger(object):
 
@@ -10,6 +9,7 @@ class infoLogger(object):
         self.inputFile = fileName
         self.writer = writer
         self.data = self.hatiar.getPanda(fileName)
+        print(self.data.columns)
 
     def writeInfo(self):
 

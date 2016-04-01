@@ -12,12 +12,12 @@ style.use('ggplot')
 for subdir, dirs, files in os.walk(path):
 
     if not os.path.exists(subdir+'\\plots'):
-        if subdir != 'ALS_data':
+        if subdir != path:
             os.makedirs(subdir+'\\plots')
 
     for file in files:
         # print(file)
-        if(file == 'Generation_log.csv'):
+        if file == 'Generation_log.csv':
 
             writer = ew.excelWriter(subdir+'\\plots\\genLogger.xlsx')
             genLog = gl.generationLogger(subdir+'\\'+file, subdir+'\\plots', writer)
@@ -30,15 +30,15 @@ for subdir, dirs, files in os.walk(path):
             genLog.writeGroup()
             writer.saveWriter()
 
-        if(file == 'ThreadInfo.csv'):
+        if file == 'ThreadInfo.csv':
 
             writer = ew.excelWriter(subdir+'\\plots\\threadLogger.xlsx')
             threadLog = il.infoLogger(subdir+'\\'+file, subdir+'\\plots', writer)
 
             threadLog.writeInfo()
-            threadLog.plotBar(['thread name', ' total move'], ['thread name'], 'move-per-thread')
+            threadLog.plotBar(['thread name', 'total move'], ['thread name'], 'move-per-thread')
             threadLog.plotBar(['thread name', 'alive_time'], ['thread name'], 'time-per-thread')
-            threadLog.plotBar(['thread name', 'total food count ', ' total poison count '], ['thread name'], 'food-poison-per-thread')
+            threadLog.plotBar(['thread name', 'total food count', 'total poison count'], ['thread name'], 'food-poison-per-thread')
 
             # threadLog.plotBox(['thread name', 'gendar'], 'gendar', 'threads-per-gender')
             # threadLog.plotBox(['thread name', ' dna'], ' dna', 'threads-per-dna')
