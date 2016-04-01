@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="cleaned up">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/threadLogger.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/threadLogger.xlsx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/threadLogger.xlsx" afterPath="" />
+    <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs duration_nano.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs female_offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs female_offspring.png" />
@@ -45,6 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs duration_nano.png" />
@@ -54,6 +20,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs duration_nano.png" />
@@ -63,6 +30,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs duration_nano.png" />
@@ -72,6 +40,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs duration_nano.png" />
@@ -81,6 +50,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs duration_nano.png" />
@@ -90,6 +60,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs duration_nano.png" />
@@ -99,6 +70,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs duration_nano.png" />
@@ -108,6 +80,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs duration_nano.png" />
@@ -117,6 +90,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs duration_nano.png" />
@@ -126,6 +100,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs duration_nano.png" />
@@ -135,6 +110,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs duration_nano.png" />
@@ -144,6 +120,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs duration_nano.png" />
@@ -153,6 +130,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs duration_nano.png" />
@@ -162,6 +140,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs duration_nano.png" />
@@ -171,6 +150,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs duration_nano.png" />
@@ -180,6 +160,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/food-poison-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs duration_nano.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs duration_nano.png" />
@@ -189,12 +170,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs offspring.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs offspring.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/genLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/threadLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/threadLogger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/time-per-thread.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accessories.py" afterPath="$PROJECT_DIR$/accessories.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generationLogger.py" afterPath="$PROJECT_DIR$/generationLogger.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoLogger.py" afterPath="$PROJECT_DIR$/infoLogger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subplotter.py" afterPath="$PROJECT_DIR$/subplotter.py" />
     </list>
     <ignored path="subplotter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -215,11 +195,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="subplotter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="subplotter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subplotter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6452145">
-              <caret line="38" column="96" selection-start-line="38" selection-start-column="96" selection-end-line="38" selection-end-column="96" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -231,7 +211,17 @@
         <entry file="file://$PROJECT_DIR$/generationLogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadInfo.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/ThreadInfo.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -241,7 +231,7 @@
         <entry file="file://$PROJECT_DIR$/infoLogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -257,13 +247,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accessories.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.28052804">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gen vs offspring.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs offspring.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -298,10 +297,10 @@
         <option value="$PROJECT_DIR$/plotter.py" />
         <option value="$PROJECT_DIR$/plotGen.py" />
         <option value="$PROJECT_DIR$/excelWriter.py" />
-        <option value="$PROJECT_DIR$/generationLogger.py" />
-        <option value="$PROJECT_DIR$/infoLogger.py" />
-        <option value="$PROJECT_DIR$/accessories.py" />
         <option value="$PROJECT_DIR$/subplotter.py" />
+        <option value="$PROJECT_DIR$/infoLogger.py" />
+        <option value="$PROJECT_DIR$/generationLogger.py" />
+        <option value="$PROJECT_DIR$/accessories.py" />
       </list>
     </option>
   </component>
@@ -373,6 +372,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ALS_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subplotter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subplotter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALS_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Log 2016-03-28T23-21-20.597" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subplotter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subplotter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALS_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Log 2016-03-28T23-21-20.597" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plots" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -588,25 +627,31 @@
       <option name="project" value="LOCAL" />
       <updated>1459456568306</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added column str processing">
+      <created>1459540456281</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1459540456281</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1366" y="0" width="1366" height="771" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1366" y="0" width="1366" height="771" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -633,7 +678,8 @@
     <MESSAGE value="updated log" />
     <MESSAGE value="update" />
     <MESSAGE value="cleaned up" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaned up" />
+    <MESSAGE value="added column str processing" />
+    <option name="LAST_COMMIT_MESSAGE" value="added column str processing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -678,7 +724,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -733,7 +781,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -791,7 +841,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +893,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -883,7 +937,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -929,14 +985,40 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs duration_nano.png">
+    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs male_offspring.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs male_offspring.png">
+    <entry file="file://$PROJECT_DIR$/subplotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/ThreadInfo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/food-poison-per-thread.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infoLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/move-per-thread.png">
@@ -944,7 +1026,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs offspring.png">
+    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs duration_nano.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -952,17 +1034,14 @@
     <entry file="file://$PROJECT_DIR$/generationLogger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infoLogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen vs offspring.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plotGen.py">
@@ -975,18 +1054,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/accessories.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subplotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6452145">
-          <caret line="38" column="96" selection-start-line="38" selection-start-column="96" selection-end-line="38" selection-end-column="96" />
+        <state vertical-scroll-proportion="0.28052804">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

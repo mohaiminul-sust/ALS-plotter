@@ -10,6 +10,7 @@ class infoLogger(object):
         self.writer = writer
         self.data = self.hatiar.getPanda(fileName)
         print(self.data.columns)
+        self.data['thread name'] = self.data['thread name'].str.replace('Thread-', '', case=False)
 
     def writeInfo(self):
 
