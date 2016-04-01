@@ -11,12 +11,10 @@ path = 'ALS_data'
 style.use('ggplot')
 
 for subdir, dirs, files in os.walk(path):
-
     if not os.path.exists(subdir + '\\plots'):
         os.makedirs(subdir + '\\plots')
 
     for file in files:
-        # print(file)
         if file == 'ALS_data.csv':
             writer = ew.excelWriter(subdir + '\\plots\\als_logger.xlsx')
             alspl = ap.alsPlotter(fileName=subdir + '\\' + file, subdir=subdir + '\\plots', writer=writer)
