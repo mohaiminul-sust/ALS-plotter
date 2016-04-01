@@ -1,4 +1,4 @@
-Number_of_Run,Time(in neno sec),copy_dna_number,total_thread,total_male,total_female,last_genaration
+Number_of_Run,Time,copy_dna_number,total_thread,total_male,total_female,latest_generation
 0,0,0,0,0,0,0
 1,13445002630549,4288,4715,2352,2363,265
 2,23645889876530,2426,2741,1329,1412,216
