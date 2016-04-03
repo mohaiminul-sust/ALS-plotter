@@ -2,180 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/time-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/food-poison-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs duration_nano.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs male_female_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs male_offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen vs offspring.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/genLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/move-per-thread.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/threadLogger.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/time-per-thread.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T09-52-53.895/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T10-51-09.755/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-00-49.950/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-10-40.090/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-16-08.495/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T20-59-42.385/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-16-11.386/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-19-30.038/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T22-52-16.535/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T00-12-33.239/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/food-poison-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/food-poison-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/move-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/move-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/time-per-thread.png" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T01-25-42.177/plots/time-per-thread.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-31-52.426/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-37-34.466/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T02-50-31.592/plots/thread_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/gen_logger.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-30T04-22-57.038/plots/thread_logger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/plots/als_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/plots/als_logger.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/plots/runtime vs copy_dna_num.png" afterPath="$PROJECT_DIR$/ALS_data/plots/runtime vs copy_dna_num.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/plots/runtime vs total_copy_dna_num.png" afterPath="$PROJECT_DIR$/ALS_data/plots/runtime vs total_copy_dna_num.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/plots/runtime vs total_male_female.png" afterPath="$PROJECT_DIR$/ALS_data/plots/runtime vs total_male_female.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/accessories.py" afterPath="$PROJECT_DIR$/accessories.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alsPlotter.py" afterPath="$PROJECT_DIR$/alsPlotter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/excelWriter.py" afterPath="$PROJECT_DIR$/excelWriter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generationLogger.py" afterPath="$PROJECT_DIR$/generationLogger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoLogger.py" afterPath="$PROJECT_DIR$/infoLogger.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subplotter.py" afterPath="$PROJECT_DIR$/subplotter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/genLogger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen_logger.xlsx" />
     </list>
     <ignored path="subplotter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -196,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="subplotter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="subplotter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/subplotter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6950867">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -212,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/alsPlotter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -222,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/generationLogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -232,16 +97,16 @@
         <entry file="file://$PROJECT_DIR$/infoLogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accessories.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.024566473">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -378,28 +243,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subplotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subplotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ALS_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -632,7 +479,19 @@
       <option name="project" value="LOCAL" />
       <updated>1459550142911</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated project">
+      <created>1459552852782</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1459552852782</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated ALS_data">
+      <created>1459554135479</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1459554135479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -641,7 +500,6 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -651,6 +509,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -681,13 +540,101 @@
     <MESSAGE value="updated plots" />
     <MESSAGE value="added als_plotter classes" />
     <MESSAGE value="reformatted file" />
-    <option name="LAST_COMMIT_MESSAGE" value="reformatted file" />
+    <MESSAGE value="updated project" />
+    <MESSAGE value="updated ALS_data" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated ALS_data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generationLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infoLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subplotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alsPlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generationLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infoLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/excelWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/subplotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -929,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -945,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.88284">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -958,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5330033">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,16 +915,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accessories.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/excelWriter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -990,18 +923,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infoLogger.py">
+    <entry file="file://$PROJECT_DIR$/ALS_data/plots/runtime vs total_copy_dna_num.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subplotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-          <folding />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generationLogger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1009,17 +949,25 @@
     <entry file="file://$PROJECT_DIR$/alsPlotter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subplotter.py">
+    <entry file="file://$PROJECT_DIR$/infoLogger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6950867">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024566473">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
