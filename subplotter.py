@@ -11,8 +11,9 @@ path = 'ALS_data'
 style.use('ggplot')
 
 for subdir, dirs, files in os.walk(path):
-    if not os.path.exists(subdir + '\\plots'):
-        os.makedirs(subdir + '\\plots')
+    if not os.path.exists(subdir+'\\plots'):
+        if subdir != 'plots':
+            os.makedirs(subdir+'\\plots')
 
     for file in files:
         if file == 'ALS_data.csv':
