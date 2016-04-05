@@ -1,4 +1,5 @@
 import accessories as ac
+import os
 
 class infoLogger(object):
 
@@ -16,9 +17,22 @@ class infoLogger(object):
 
     def plotBar(self, keys, index, plotName):
         data = self.data[keys].set_index(index)
-        self.writer.writeSheet(data, plotName)
-        keys.remove(index[0])
-        self.hatiar.printBar(data, index, keys, self.subdir+'\\'+plotName)
+
+        if len(data) <= 300:
+            self.writer.writeSheet(data, plotName)
+            keys.remove(index[0])
+            self.hatiar.printBar(data, index, keys, self.subdir+'\\'+plotName)
+        else:
+            dataList = self.hatiar.dataToChunkList(data, chunkSize=300)
+            self.writer.writeSheet(data, plotName)
+            keys.remove(index[0])
+            # path checker
+            if not os.path.exists(self.subdir+'\\'+plotName):
+                os.makedirs(self.subdir+'\\'+plotName)
+            i=1
+            for dataChunk in dataList:
+                self.hatiar.printBar(dataChunk, index, keys, self.subdir+'\\'+plotName+'\\'+plotName+'-'+i.__str__())
+                i += 1
 
     def plotBox(self, keys, index, plotName):
         data = self.data[keys]

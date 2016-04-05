@@ -6,13 +6,14 @@ import infoLogger as il
 import alsPlotter as ap
 
 path = 'ALS_data'
+dirEx = 'plots' or 'move-per-thread' or 'time-per-thread' or 'food-poison-per-thread'
 
 # using plotting style for pandas
 style.use('ggplot')
 
 for subdir, dirs, files in os.walk(path):
-    if not os.path.exists(subdir+'\\plots'):
-        if subdir != 'plots':
+    if not os.path.exists(subdir + '\\plots'):
+        if subdir != dirEx:
             os.makedirs(subdir+'\\plots')
 
     for file in files:
@@ -39,7 +40,7 @@ for subdir, dirs, files in os.walk(path):
 
         if file == 'Generation_log.csv':
             writer = ew.excelWriter(subdir + '\\plots\\gen_logger.xlsx')
-            genLog = gl.generationLogger(subdir + '\\' + file, subdir + '\\plots', writer)
+            genLog = gl.generationLogger(fileName=subdir + '\\' + file, subdir=subdir + '\\plots', writer=writer)
             genLog.plotBar(['generation_number', 'offsprings_per_generation'], ['generation_number'],
                            'gen vs offspring')
             genLog.plotBar(['generation_number', 'male_offsprings_per_generation'], ['generation_number'],
@@ -55,7 +56,7 @@ for subdir, dirs, files in os.walk(path):
 
         if file == 'ThreadInfo.csv':
             writer = ew.excelWriter(subdir + '\\plots\\thread_logger.xlsx')
-            threadLog = il.infoLogger(subdir + '\\' + file, subdir + '\\plots', writer)
+            threadLog = il.infoLogger(fileName=subdir + '\\' + file, subdir=subdir + '\\plots', writer=writer)
 
             threadLog.writeInfo()
             threadLog.plotBar(['thread name', 'total move'], ['thread name'], 'move-per-thread')
