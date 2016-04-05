@@ -7,6 +7,7 @@ import alsPlotter as ap
 
 path = 'ALS_data'
 dirEx = 'plots' or 'move-per-thread' or 'time-per-thread' or 'food-poison-per-thread'
+dirEx = dirEx or 'gen vs offspring' or 'gen vs male_offspring' or 'gen vs female_offspring' or 'gen vs male_female_offspring' or 'gen vs duration_nano'
 
 # using plotting style for pandas
 style.use('ggplot')

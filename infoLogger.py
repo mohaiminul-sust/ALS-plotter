@@ -17,15 +17,13 @@ class infoLogger(object):
 
     def plotBar(self, keys, index, plotName):
         data = self.data[keys].set_index(index)
+        self.writer.writeSheet(data, plotName)
+        keys.remove(index[0])
 
         if len(data) <= 300:
-            self.writer.writeSheet(data, plotName)
-            keys.remove(index[0])
             self.hatiar.printBar(data, index, keys, self.subdir+'\\'+plotName)
         else:
             dataList = self.hatiar.dataToChunkList(data, chunkSize=300)
-            self.writer.writeSheet(data, plotName)
-            keys.remove(index[0])
             # path checker
             if not os.path.exists(self.subdir+'\\'+plotName):
                 os.makedirs(self.subdir+'\\'+plotName)
