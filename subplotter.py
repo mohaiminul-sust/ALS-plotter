@@ -6,16 +6,18 @@ import infoLogger as il
 import alsPlotter as ap
 
 path = 'ALS_data'
-dirEx = 'plots' or 'move-per-thread' or 'time-per-thread' or 'food-poison-per-thread'
-dirEx = dirEx or 'gen vs offspring' or 'gen vs male_offspring' or 'gen vs female_offspring' or 'gen vs male_female_offspring' or 'gen vs duration_nano'
+# dirEx = ['plots', 'move-per-thread', 'time-per-thread', 'food-poison-per-thread', 'gen vs offspring',
+#          'gen vs male_offspring', 'gen vs female_offspring', 'gen vs male_female_offspring', 'gen vs duration_nano'
+#          ]
 
 # using plotting style for pandas
 style.use('ggplot')
 
 for subdir, dirs, files in os.walk(path):
     if not os.path.exists(subdir + '\\plots'):
-        if subdir != dirEx:
-            os.makedirs(subdir+'\\plots')
+        if 'plots' not in subdir:
+            print('.......................' + subdir + '........................')
+            os.makedirs(subdir + '\\plots')
 
     for file in files:
         if file == 'ALS_data.csv':
