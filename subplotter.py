@@ -64,8 +64,4 @@ for subdir, dirs, files in os.walk(path):
             threadLog.plotBar(['thread name', 'total food count', 'total poison count'], ['thread name'],
                               'food-poison-per-thread')
 
-            # threadLog.plotBox(['thread name', 'gendar'], 'gendar', 'threads-per-gender')
-            # threadLog.plotBox(['thread name', ' dna'], ' dna', 'threads-per-dna')
-            # threadLog.plotBox(['thread name', 'genaration_no'], 'genaration_no', 'boxplot-gen')
-
             writer.saveWriter()
