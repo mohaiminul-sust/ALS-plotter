@@ -6,9 +6,6 @@ import infoLogger as il
 import alsPlotter as ap
 
 path = 'ALS_data'
-# dirEx = ['plots', 'move-per-thread', 'time-per-thread', 'food-poison-per-thread', 'gen vs offspring',
-#          'gen vs male_offspring', 'gen vs female_offspring', 'gen vs male_female_offspring', 'gen vs duration_nano'
-#          ]
 
 # using plotting style for pandas
 style.use('ggplot')

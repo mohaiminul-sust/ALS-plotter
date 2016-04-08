@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="update log files">
+    <list default="true" id="edd133e3-3780-4071-9084-3818f147b868" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/gen_logger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/thread_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-28T23-21-20.597/plots/thread_logger.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen_logger.xlsx" afterPath="$PROJECT_DIR$/ALS_data/Log 2016-03-29T03-18-32.495/plots/gen_logger.xlsx" />
@@ -63,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/subplotter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -93,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="infoLogger.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="infoLogger.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/infoLogger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56213874">
-              <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="accessories.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accessories.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.19653179">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -147,13 +147,13 @@
         <option value="$PROJECT_DIR$/mainLogger.py" />
         <option value="$PROJECT_DIR$/plotter.py" />
         <option value="$PROJECT_DIR$/plotGen.py" />
-        <option value="$PROJECT_DIR$/accessories.py" />
         <option value="$PROJECT_DIR$/excelWriter.py" />
         <option value="$PROJECT_DIR$/alsPlotter.py" />
         <option value="$PROJECT_DIR$/ALS_data/ALS_data.csv" />
         <option value="$PROJECT_DIR$/infoLogger.py" />
         <option value="$PROJECT_DIR$/generationLogger.py" />
         <option value="$PROJECT_DIR$/subplotter.py" />
+        <option value="$PROJECT_DIR$/accessories.py" />
       </list>
     </option>
   </component>
@@ -205,6 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,14 +249,20 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../plotter" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="subplotter" sdk-home="C:\Users\Andromeda\Miniconda3\python.exe">
+        <option name="mySdkHome" value="C:\Users\Andromeda\Miniconda3\python.exe" />
+        <option name="myModuleName" value="subplotter" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -524,7 +532,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459874169211</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="bug fixed and updated">
+      <created>1460065607445</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1460065607445</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -579,7 +593,8 @@
     <MESSAGE value="data chunk working" />
     <MESSAGE value="update logger" />
     <MESSAGE value="update log files" />
-    <option name="LAST_COMMIT_MESSAGE" value="update log files" />
+    <MESSAGE value="bug fixed and updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fixed and updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1010,30 +1025,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/excelWriter.py">
+    <entry file="file://$PROJECT_DIR$/generationLogger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accessories.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subplotter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1046,22 +1043,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generationLogger.py">
+    <entry file="file://$PROJECT_DIR$/excelWriter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subplotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infoLogger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56213874">
-          <caret line="25" column="71" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accessories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19653179">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
