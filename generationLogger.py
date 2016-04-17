@@ -1,5 +1,6 @@
 import accessories as ac
 import os
+
 class generationLogger(object):
 
     def __init__(self, fileName, subdir, writer):

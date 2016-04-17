@@ -24,7 +24,7 @@ class infoLogger(object):
             self.hatiar.printBar(data, index, keys, self.subdir+'\\'+plotName)
         else:
             dataList = self.hatiar.dataToChunkList(data, chunkSize=300)
-            # path checker
+            # path checker for clustered thread plots
             if not os.path.exists(self.subdir+'\\'+plotName):
                 os.makedirs(self.subdir+'\\'+plotName)
             i=1
