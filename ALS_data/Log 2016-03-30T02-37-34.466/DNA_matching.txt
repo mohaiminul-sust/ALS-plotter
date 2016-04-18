@@ -1,5 +1,0 @@
-1st_Thread,2nd_Thread,DNA_seq
-12,117,121,CTAGTGCCTC
-86,98,GGATGGTATA
-96,101,ATCCGTAATC
-Total Match: 4
